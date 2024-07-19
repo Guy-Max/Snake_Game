@@ -6,6 +6,7 @@ Prérequis
     Python 3.x
     Bibliothèque Tkinter
     Bibliothèque PIL (Pillow)
+    Bibliothèque Random
 
 Vous pouvez installer les bibliothèques nécessaires en utilisant pip :
 Fichiers
