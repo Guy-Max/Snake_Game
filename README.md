@@ -1,6 +1,6 @@
 # Snake_Game
 
-Ce projet est un jeu du serpent développé en utilisant la bibliothèque Tkinter de Python pour l'interface graphique et PIL pour le traitement des images, ainsi Random pour le traitement des chiffres .
+Ce projet est un jeu du serpent développé en utilisant la bibliothèque Tkinter de Python pour l'interface graphique et PIL pour le traitement des images, ainsi Random pour le traitement des chiffres en aléatoires.
 Prérequis
 
     Python 3.x
